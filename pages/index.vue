@@ -24,9 +24,9 @@
             <c-link
               is-external
               text-decoration="underline"
-              href="https://github.com/codebender828/dark.chakra/generate"
+              href="https://github.com/codebender828/dark.nuxt/generate"
             >
-              github.com/codebender828/dark.chakra/generate
+              github.com/codebender828/dark.nuxt/generate
             </c-link>
           </c-list-item>
           <c-list-item>Clone your new repository</c-list-item>
@@ -134,7 +134,7 @@
           <c-text py="2">
             See the code for the examples above in the
             <c-link
-              href="https://github.com/codebender828/dark.chakra/blob/main/pages/index.vue"
+              href="https://github.com/codebender828/dark.nuxt/blob/main/pages/index.vue"
               is-external
               text-decoration="underline"
             >
@@ -249,11 +249,11 @@
         </c-link>
         &bull;
         <c-link
-          href="https://github.com/codebender828/dark.chakra"
+          href="https://github.com/codebender828/dark.nuxt"
           is-external
           text-decoration="underline"
         >
-          github/codebender828/dark.chakra
+          github/codebender828/dark.nuxt
         </c-link>
         &bull;
         <c-link

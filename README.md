@@ -6,7 +6,7 @@ Hit the ground running with one `yarn install`.
 
 ## Getting Started
 
-1. Generate a repository with this template by clicking on the "Use this template" button on the top right or on [github.com/codebender828/dark.chakra/generate](https://github.com/codebender828/dark.chakra/generate)
+1. Generate a repository with this template by clicking on the "Use this template" button on the top right or on [github.com/codebender828/dark.nuxt/generate](https://github.com/codebender828/dark.nuxt/generate)
 2. Clone your new repository
 3. Run yarn install
 4. Hit the ground running with Nuxt.js & Chakra UI Vue with the dark theme as the default

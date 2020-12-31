@@ -1,5 +1,6 @@
 {
-  "name": "dark.chakra",
+  "name": "dark.nuxt",
+  "description": "An opinionated, dark-themed Nuxt.js & Chakra UI Vue GitHub repository template.",
   "version": "1.0.0",
   "private": true,
   "scripts": {
