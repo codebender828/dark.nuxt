@@ -80,7 +80,7 @@
             <c-button size="xs">
               Button
             </c-button>
-            <c-button left-icon="github" variant-color="green" size="sm">
+            <c-button variant-color="green" size="sm">
               Button
             </c-button>
             <c-button variant-color="indigo" size="md">
@@ -209,9 +209,7 @@
       <c-divider />
 
       <c-text mt="1" text-align="center">
-        <c-text text-align="center" font-weight="bold">
-          💚 Inspired by:
-        </c-text>
+        💚 Inspired by:
         <c-link
           href="https://dark.ka.vercel.app/"
           is-external
